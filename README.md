@@ -1,2 +1,2 @@
 # FixedPointIteration
-Program has 3 part. Backend part get values from JavaScript document and make fixed point iteration on these values. User can see root and the graph on web.
+Program has 3 part. Backend part get values from JavaScript document and make fixed point iteration on these values. User can see root and the graph on web. In this program, Python and JavaScript-HTML documents are linked together using the Flask library. It is aimed to create a website that implements the fixed point iteration method, which is one of the numerical root finding methods.
